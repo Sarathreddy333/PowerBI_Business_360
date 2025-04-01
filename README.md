@@ -1,6 +1,6 @@
 # PowerBI_Business_360
 
-[Click on this link to interact with dashboard]:(https://app.powerbi.com/view?r=eyJrIjoiOTQzNDNjZTgtNDYzOS00ZjllLWJiZTAtMTBkZWIxYmMyOGVjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Click on this link to interact with dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTQzNDNjZTgtNDYzOS00ZjllLWJiZTAtMTBkZWIxYmMyOGVjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 **Objectives(Sample view of dashboards)**
