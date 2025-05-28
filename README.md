@@ -242,3 +242,22 @@ Has the details of pre invoice deductions percentage for each cutomer with year
 Post_invoice_deductions
 
 Post invoice deductions and other deductions details
+
+
+
+
+[LIVE DASHBOARD LINK](https://app.powerbi.com/view?r=eyJrIjoiOTQzNDNjZTgtNDYzOS00ZjllLWJiZTAtMTBkZWIxYmMyOGVjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+
+
+[OVER ALL VIEW](https://github.com/Sarathreddy333/PowerBI_Business_360/blob/main/Screenshot%202025-05-28%20180211.png)
+
+[FINANCE VIEW](https://github.com/Sarathreddy333/PowerBI_Business_360/blob/main/Screenshot%202025-03-22%20233255.png)
+
+[SALES VIEW](https://github.com/Sarathreddy333/PowerBI_Business_360/blob/main/Screenshot%202025-03-22%20233305.png)
+
+[MARKETING VIEW](https://github.com/Sarathreddy333/PowerBI_Business_360/blob/main/Screenshot%202025-03-22%20233315.png)
+
+[SUPPLY CHAIN VIEW](https://github.com/Sarathreddy333/PowerBI_Business_360/blob/main/Screenshot%202025-03-22%20233325.png)
+
+
